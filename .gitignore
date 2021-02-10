@@ -5,3 +5,5 @@ lib64
 *.cfg
 .env
 *.log
+Dockerfile
+*.yml
